@@ -2,7 +2,7 @@
   "name": "a-rest-api-with-node-and-express",
   "version": "1.0.0",
   "description": "My Node API",
-  "main": "index.js",
+  "main": "hello-world.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
