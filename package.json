@@ -1,0 +1,19 @@
+{
+  "name": "a-rest-api-with-node-and-express",
+  "version": "1.0.0",
+  "description": "My Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwranga/a-REST-API-with-Node-and-Express.git"
+  },
+  "author": "Ranga Lakshitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwranga/a-REST-API-with-Node-and-Express/issues"
+  },
+  "homepage": "https://github.com/jwranga/a-REST-API-with-Node-and-Express#readme"
+}
