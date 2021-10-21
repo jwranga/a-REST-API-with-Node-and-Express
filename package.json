@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jwranga/a-REST-API-with-Node-and-Express/issues"
   },
-  "homepage": "https://github.com/jwranga/a-REST-API-with-Node-and-Express#readme"
+  "homepage": "https://github.com/jwranga/a-REST-API-with-Node-and-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
